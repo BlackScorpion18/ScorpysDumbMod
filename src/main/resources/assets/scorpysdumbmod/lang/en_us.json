@@ -1,0 +1,13 @@
+{
+  "item.scorpysdumbmod.chaos_orb": "Chaos Orb",
+  "item.scorpysdumbmod.raw_chaos": "Raw Chaos",
+  "item.scorpysdumbmod.chaos_slurry": "Chaos Slurry",
+  "item.scorpysdumbmod.eye_of_the_orb": "Eye Of The Orb",
+  "item.scorpysdumbmod.mouth_of_greed": "Mouth Of Greed",
+
+  "block.scorpysdumbmod.chaos_ore": "Chaos Ore",
+  "block.scorpysdumbmod.raw_chaos_block": "Block of Raw Chaos",
+  "block.scorpysdumbmod.chaos_block": "Block of Chaos",
+
+  "creativetab:scorpys_dumb_mod_tab" : "Scorpy's Dumb Mod"
+}

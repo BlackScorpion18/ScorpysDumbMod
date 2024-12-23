@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:blasting",
+  "category": "misc",
+  "cookingtime": 100,
+  "experience": 1.4,
+  "group": "chaos_slurry",
+  "ingredient": {
+    "item": "scorpysdumbmod:raw_chaos"
+  },
+  "result": "scorpysdumbmod:chaos_slurry"
+}

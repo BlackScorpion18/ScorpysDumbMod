@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "scorpysdumbmod:block/raw_chaos_block"
+    }
+  }
+}

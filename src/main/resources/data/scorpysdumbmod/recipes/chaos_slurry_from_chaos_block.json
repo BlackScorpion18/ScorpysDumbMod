@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "scorpysdumbmod:chaos_block"
+    }
+  ],
+  "result": {
+    "item": "scorpysdumbmod:chaos_slurry",
+    "count": 9
+  }
+}

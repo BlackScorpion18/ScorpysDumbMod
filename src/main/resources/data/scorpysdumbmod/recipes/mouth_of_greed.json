@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "# #",
+    "E#E",
+    " G "
+  ],
+  "key": {
+    "E": {
+      "item": "minecraft:emerald_block"
+    },
+    "G": {
+      "item": "minecraft:gold_block"
+    },
+    "#": {
+      "item": "scorpysdumbmod:chaos_slurry"
+    }
+  },
+  "result": {
+    "item": "scorpysdumbmod:mouth_of_greed"
+  }
+}

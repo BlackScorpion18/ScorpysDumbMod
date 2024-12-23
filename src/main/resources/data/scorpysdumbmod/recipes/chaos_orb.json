@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "###",
+    "E#E",
+    "#$#"
+  ],
+  "key": {
+    "$": {
+      "item": "scorpysdumbmod:mouth_of_greed"
+    },
+    "E": {
+      "item": "scorpysdumbmod:eye_of_the_orb"
+    },
+    "#": {
+      "item": "scorpysdumbmod:chaos_block"
+    }
+  },
+  "result": {
+    "item": "scorpysdumbmod:chaos_orb"
+  }
+}

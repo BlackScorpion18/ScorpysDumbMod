@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "scorpysdumbmod:raw_chaos"
+    }
+  },
+  "result": {
+    "item": "scorpysdumbmod:raw_chaos_block"
+  }
+}

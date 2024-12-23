@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:smelting",
+  "category": "misc",
+  "cookingtime": 200,
+  "experience": 0.7,
+  "group": "chaos_slurry",
+  "ingredient": {
+    "item": "scorpysdumbmod:raw_chaos"
+  },
+  "result": "scorpysdumbmod:chaos_slurry"
+}
